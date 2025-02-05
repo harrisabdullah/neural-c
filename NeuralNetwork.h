@@ -20,4 +20,7 @@ void nn_free(NN* network);
 void nn_predict(NN* network);
 void nn_backpropagate(NN* network, float** activations, float* target, float* cache);
 
+// debug
+void nn_print(NN network);
+
 #endif

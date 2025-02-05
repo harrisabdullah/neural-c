@@ -10,6 +10,7 @@ set(SOURCES
     nn_init.c
     nn_free.c
     nn_predict.c
+    nn_print.c
 )
 
 set(HEADERS
