@@ -1,0 +1,6 @@
+.vscode/
+CmakeFiles/
+neural
+CMakeCache.txt
+Makefile
+cmake_install.cmake
